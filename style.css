@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1, h2{
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: #58a6a6;
+}
+.first_div {
+    background-color: #421E22;
+    border-radius: 8px;
+    padding: 3px 0px 40px 0px;
+}
+.on {
+    padding-left: 500px;
+}
+.tw {
+    padding-left: 500px;
+}
+.re {
+    padding-left: 500px;
+}
+.center {
+    display: block;
+    border-radius: 100%;
+    padding: 3px;
+    border: medium dashed gold;
+    margin-left: auto;
+    margin-right: auto;
+}
+hr {
+    color: blue;
+}
+.ret {
+    padding-left: 20px;
+}
+.fred {
+    padding-left: 20px;
+    
+}
+body {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
